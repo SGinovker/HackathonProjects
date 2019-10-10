@@ -4,6 +4,8 @@
 
 #### Summary: 
 
+Project: [BlueCheese](https://makhtar3.wixsite.com/bluecheese)
+
 I worked on a team with 3 other students. Our goal was to aim for jetBlue's prize, which was the best use of jetBlue data (given in JSON format). We decided to use this data to create a customer-focused jetBlue website using Wix and JavaScript. We also used the Google Places API to get information about hotels and pictures at different locations.
 
 Website features:
