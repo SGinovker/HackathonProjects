@@ -11,4 +11,4 @@ Website features:
 * Login system for flight crew (not finished implementing)
 * Search for routes based on departing or destination airport
 
-![Google Places API calls](/img/GooglePlacesAPI.jpg)
+![Google Places API calls](img/GooglePlacesAPI.jpg)
