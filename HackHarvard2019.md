@@ -1,7 +1,8 @@
 ## Hackathon: HackHarvard
 ### Location: Harvard University
 ### Date: October 2019
-### Awards: Facebook Best Hack for Building Community or Connecting People, Hacker Spirit Award
+### Awards: 
+Facebook Best Hack for Building Community or Connecting People, Hacker Spirit Award
 
 #### Summary:
 
