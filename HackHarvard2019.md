@@ -21,4 +21,4 @@ Technical details:
 
 ![Group Picture!](https://github.com/SGinovker/HackathonProjects/blob/master/_img/group_photo.png)
 
-![Demoing](https://github.com/SGinovker/HackathonProjects/blob/master/_img/deoming.png)
+![Demoing](https://github.com/SGinovker/HackathonProjects/blob/master/_img/demoing.png)
