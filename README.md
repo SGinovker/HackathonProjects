@@ -6,4 +6,3 @@ This is a repo I will update with hackathon projects. Below you will find a list
 * YHack - Dec 2018
 * HackHarvard - Oct 2019
 * YHack - Oct 2019 
-* HackPrinceton - Nov 2019 (*coming soon...*)
